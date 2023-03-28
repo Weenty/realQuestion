@@ -18,7 +18,7 @@
 Пользователи не могут проходить один и тот же вопрос дважды.
 
 ## Используемые технологии
-Android Studio
-Java
-Firebase Realtime Database
-Firebase Authentication
+- Android Studio
+- Java
+- Firebase Realtime Database
+- Firebase Authentication
